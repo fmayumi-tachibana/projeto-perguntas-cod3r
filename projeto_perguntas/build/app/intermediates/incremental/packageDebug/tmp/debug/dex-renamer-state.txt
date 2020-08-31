@@ -1,0 +1,4 @@
+#Mon Aug 31 08:33:06 BRT 2020
+base.0=C\:\\Users\\DELL\\Documents\\curso_flutter\\projeto-perguntas-cod3r\\projeto_perguntas\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
